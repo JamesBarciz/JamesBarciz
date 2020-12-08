@@ -1,5 +1,6 @@
-### Hi there 👋
+Hello, my name is James Barciz and I am passionate about the world of Data; specifically, I am interested in data analytics, visualizations and machine learning.  Technically speaking, I have worked primarily with Python 3 and SQL.
 
+Particular Python libraries with which I have experience perform tasks ranging from data analytics to application development.  Such libraries include: Pandas, Matplotlib, Numpy, Scikit-learn, Spacy, Flask and Tensorflow 2.0.  I have pinned two repositories below highlighting specifically, two applications I have created using Flask for various projects.
 <!--
 **JamesBarciz/JamesBarciz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
